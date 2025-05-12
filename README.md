@@ -1,4 +1,6 @@
 # 3b.CREATION FOR CHAT USING TCP SOCKETS
+## NAME: SREE GOVIND
+## REG.NO:212224240159
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
@@ -31,7 +33,7 @@ while True:
             msg=input("Server > ") 
             c.send(msg.encode())
 ```
-## OUPUT
+## OUtPUT
 ![3bcn](https://github.com/user-attachments/assets/da06536c-5b8b-4a18-8150-daacfecee439)
 
 ## RESULT
